@@ -1,12 +1,14 @@
-h3{
-    color: red;
-    text-align: center;
-    font-size:30px;
-
-} 
-p{
-    text-align: justify;
-}
 body{
-    background-color: blue;
+    background-image: url('images/flower.jpg');
+    background-attachment:fixed;
+    background-size:cover;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}
+.header img{
+    width: 130px;
+    height:130px;
+
 }
